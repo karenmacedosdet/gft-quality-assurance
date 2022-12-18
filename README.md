@@ -10,19 +10,19 @@ Para acompanhar o meu progresso, é só acessar o material disponibilizado neste
 
 ### MÓDULO 1: PREPARE-SE PARA A JORNADA (ONBOARDING)
 <!-- TOC -->
-* **CURSO:** Conheça as oportunidades da DIO
-* **CURSO:** Boas-vindas ao GFT Quality Assurance Para Mulheres
-* **CURSO:** Seja Protagonista Neste Bootcamp
-* **CURSO:** Introdução ao Desenvolvimento Moderno de Software
-* **MENTORIA:** Aula Inaugural
+* **CURSO:** Conheça as oportunidades da DIO  ✔️
+* **CURSO:** Boas-vindas ao GFT Quality Assurance Para Mulheres  ✔️
+* **CURSO:** Seja Protagonista Neste Bootcamp  ✔️
+* **CURSO:** Introdução ao Desenvolvimento Moderno de Software  ✔️
+* **MENTORIA:** Aula Inaugural  ✔️
 <!-- TOC -->
 
 ### MÓDULO 2: FUNDAMENTO DE QUALIDADE E DESENVOLVIMENTO DE SOFTWARE
 <!-- TOC -->
-* **CURSO:** Introdução ao Mercado de Qualidade de Software
-* **CURSO:** Fundamentos de Qualidade de Software
-* **CURSO:** Metodologias Ágeis e Ciclo de Desenvolvimento de Software
-* **CURSO:** O Caminho Para a Certificação CTFL
+* **CURSO:** Introdução ao Mercado de Qualidade de Software  ✔️
+* **CURSO:** Fundamentos de Qualidade de Software  ✔️
+* **CURSO:** Metodologias Ágeis e Ciclo de Desenvolvimento de Software  ✔️
+* **CURSO:** O Caminho Para a Certificação CTFL  ✔️
 * **DESAFIO DE PROJETO:** O dia a dia de um QA: A prática de testes manuais funcionais [*Swag Labs Shopping*] 
 <!-- TOC -->
 
