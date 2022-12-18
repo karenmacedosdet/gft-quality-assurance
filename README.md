@@ -4,13 +4,13 @@ Em parceria com a *Digital Innovation One*, a GFT está promovendo o Bootcamp **
 
 Para acompanhar o meu progresso, é só acessar o material disponibilizado neste repositório conforme os módulos indicados abaixo.
 
-<img src="C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Logo Bootcamp GFT.png" width="200"/>
+![](C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Logo Bootcamp GFT.png)
 
-<img src="C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Swag Labs Shopping\Swag Labs Logo.png" width="230"/>
+![](C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Swag Labs Shopping\Swag Labs Logo.png)
 
-<img src="C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\jira-vector-logo-seeklogo.com\Jira Logo.png" width="200"/>
+![](C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\jira-vector-logo-seeklogo.com\Jira Logo.png)
 
-<img src="C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Java Logo\Java Logo 3.png" width="170"/>
+![](C:\Users\karen\Área de Trabalho\Workspace\Cursos\Digital Innovation One\GFT Quality Assurance Para Mulheres\Java Logo\Java Logo 3.png)
 
 ## EMENTA
 
