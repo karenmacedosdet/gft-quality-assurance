@@ -4,13 +4,7 @@ Em parceria com a *Digital Innovation One*, a GFT está promovendo o Bootcamp **
 
 Para acompanhar o meu progresso, é só acessar o material disponibilizado neste repositório conforme os módulos indicados abaixo.
 
-<img alt="Bootcamp GFT" src="Logo Bootcamp GFT.png" width="200"/>
-
-<img alt="Swag Labs" src="Swag Labs Logo.png" width="230"/> 
-
-<img alt="Jira" src="Jira Logo.png" width="230"/>
-
-<img alt="Java" src="Java Logo 3.png" width="190"/>
+<img alt="Bootcamp GFT" src="Logo Bootcamp GFT.png" width="200"/> <img alt="Swag Labs" src="Swag Labs Logo.png" width="230"/> <img alt="Jira" src="Jira Logo.png" width="230"/> <img alt="Java" src="Java Logo 3.png" width="190"/>
 
 ## EMENTA
 
