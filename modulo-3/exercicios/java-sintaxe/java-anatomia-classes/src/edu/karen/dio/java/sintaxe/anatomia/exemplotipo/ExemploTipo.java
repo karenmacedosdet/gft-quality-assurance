@@ -5,11 +5,11 @@ public class ExemploTipo {
   public static void main(String[] args) {
     String meuNome = "Karen";
 
-    int anoFabricação = 2022;
+    int anoFabricacao = 2022;
 
     boolean verdadeira = false;
 
-    anoFabricação = 2018;
+    anoFabricacao = 2018;
 
   }
 
