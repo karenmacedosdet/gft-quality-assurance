@@ -78,4 +78,4 @@ Para acompanhar o meu progresso, é só acessar o material disponibilizado neste
 * **DESAFIO DE PROJETO:** Explorando o Rest Assured Para a Automação de Testes de API    
 <!-- TOC -->
 
-*Conclusão do Bootcamp prevista para 08/01/2023.*
+*Conclusão do Bootcamp prevista para 26/01/2023.*
