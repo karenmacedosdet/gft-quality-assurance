@@ -3,7 +3,7 @@ package one.digitalinovation.basecamp;
 import java.net.SocketOption;
 
 /**
- * Classe de exemplo para o exercício da Aula 1 de Operadores Lógicos e Relacionais, Controle de Fluxo e Blocos.
+ * Classe de exemplo para o exercício da Aula 2 de Operadores Lógicos e Relacionais, Controle de Fluxo e Blocos.
  */
 
 public class Main {
