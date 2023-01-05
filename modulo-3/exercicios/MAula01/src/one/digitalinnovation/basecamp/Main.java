@@ -15,9 +15,9 @@ public class Main {
 
         //Mensagem
         System.out.println("\nExercício da Mensagem:");
-        Mensagem.obtermensagem(9);
-        Mensagem.obtermensagem(14);
-        Mensagem.obtermensagem(1);
+        Mensagem.obterMensagem(9);
+        Mensagem.obterMensagem(14);
+        Mensagem.obterMensagem(1);
 
         //Empréstimo
         System.out.println("\nExercício do Empréstimo:");
