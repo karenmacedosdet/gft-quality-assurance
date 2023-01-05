@@ -10,14 +10,14 @@
  */
 
 public class Calculadora {
-  /**
-   * Este método é utilizado para somar dois números inteiros.
-   * @param numeroUm é o primeiro parâmetro para o método somar.
-   * @param numeroDois é o segundo parâmetro para o método somar.
-   * @return int este retorno é a soma dos dois números inteiros.
-   */
+    /**
+     * Este método é utilizado para somar dois números inteiros.
+     * @param numeroUm é o primeiro parâmetro para o método somar.
+     * @param numeroDois é o segundo parâmetro para o método somar.
+     * @return int este retorno é a soma dos dois números inteiros.
+     */
 
-  public int somar (int numeroUm, int numeroDois) {
-    return numeroUm + numeroDois;
-  }
+    public int somar (int numeroUm, int numeroDois) {
+        return numeroUm + numeroDois;
+    }
 }

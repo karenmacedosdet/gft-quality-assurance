@@ -2,30 +2,30 @@ package edu.karen.dio.java.sintaxe.operadores.concatenacaotextonumero;
 
 public class concatenacaoTextoNumero {
 
-  public static void main(String[] args) {
+    public static void main(String[] args) {
 
-    String concatenacao = "?";
+        String concatenacao = "?";
 
-    concatenacao = 1+1+1+"1";
+        concatenacao = 1+1+1+"1";
 
-    System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-    concatenacao = 1+"1"+1+1;
+        concatenacao = 1+"1"+1+1;
 
-    System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-    concatenacao = 1+"1"+1+"1";
+        concatenacao = 1+"1"+1+"1";
 
-    System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-    concatenacao = "1"+1+1+1;
+        concatenacao = "1"+1+1+1;
 
-    System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-    concatenacao = "1"+(1+1+1);
+        concatenacao = "1"+(1+1+1);
 
-    System.out.println(concatenacao);
+        System.out.println(concatenacao);
 
-  }
+    }
 
 }

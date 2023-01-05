@@ -2,21 +2,21 @@ package edu.karen.dio.java.sintaxe.anatomia.nomecompleto;
 
 public class NomeCompleto {
 
-  public static void main(String[] args) {
+    public static void main(String[] args) {
 
-    String primeiroNome = "Karen";
-    String segundoNome = "Macedo";
+        String primeiroNome = "Karen";
+        String segundoNome = "Macedo";
 
-    String nomeCompleto = nomeCompleto (primeiroNome, segundoNome);
+        String nomeCompleto = nomeCompleto (primeiroNome, segundoNome);
 
-    System.out.println(nomeCompleto);
+        System.out.println(nomeCompleto);
 
-  }
+    }
 
-  public static String nomeCompleto (String primeiroNome, String segundoNome) {
+    public static String nomeCompleto (String primeiroNome, String segundoNome) {
 
-    return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
+        return "Resultado do método: " + primeiroNome.concat(" ").concat(segundoNome);
 
-  }
+    }
 
 }
