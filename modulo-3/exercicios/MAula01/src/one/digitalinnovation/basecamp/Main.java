@@ -14,13 +14,13 @@ public class Main {
         Calculadora.divisao(5, 2.5);
 
         //Mensagem
-        System.out.println("Exercício da Mensagem:");
+        System.out.println("\nExercício da Mensagem:");
         Mensagem.obtermensagem(9);
         Mensagem.obtermensagem(14);
         Mensagem.obtermensagem(1);
 
         //Empréstimo
-        System.out.println("Exercício do Empréstimo:");
+        System.out.println("\nExercício do Empréstimo:");
         Emprestimo.calcular(1000, Emprestimo.getDuasParcelas());
         Emprestimo.calcular(1000, Emprestimo.getTresParcelas());
         Emprestimo.calcular(1000, 5);
