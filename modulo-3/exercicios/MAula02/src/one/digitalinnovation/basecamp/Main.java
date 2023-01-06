@@ -1,6 +1,8 @@
 package one.digitalinnovation.basecamp;
 
-import java.sql.SQLOutput;
+/**
+ * Classe de exemplo para o exercício da Aula 2 de Métodos.
+ */
 
 public class Main {
 
