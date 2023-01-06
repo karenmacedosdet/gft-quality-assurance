@@ -18,9 +18,6 @@ public class Ex2_Consoantes {
         int count = 0;
         do {
 
-            System.out.println("Digite uma letra: ");
-            String letra = scan.next();
-
             if(!(letra.equalsIgnoreCase("a") || letra.equalsIgnoreCase("e") || letra.equalsIgnoreCase("i") || letra.equalsIgnoreCase("o") || letra.equalsIgnoreCase("u"))) {
                 consoantes[count] = letra;
                 quantidadeConsoantes++;
