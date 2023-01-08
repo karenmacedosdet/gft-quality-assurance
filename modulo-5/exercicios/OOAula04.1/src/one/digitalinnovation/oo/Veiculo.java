@@ -6,4 +6,6 @@ package one.digitalinnovation.oo;
 
 public class Veiculo {
 
+    //Atributos e métodos da classe Veículo
+
 }
