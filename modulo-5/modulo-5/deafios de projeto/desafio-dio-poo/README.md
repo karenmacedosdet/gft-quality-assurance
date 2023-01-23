@@ -149,11 +149,9 @@ Se possível:<br>
 
 ------------
 
-**FONTE README:** Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ 
-"cami-la").
+**FONTE README:** Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/).
 <br>
 <br>
 
-🦋 Projeto desenvolvido por [Karen Macedo](https://www.linkedin.com/in/karenmacedo/) durante o Bootcamp **GFT Quality Assurance Para 
-Mulheres**, de acordo com as orientações da *Camila Cavalcante*. 
+🦋 Projeto desenvolvido por [Karen Macedo](https://www.linkedin.com/in/karenmacedo/) durante o Bootcamp **GFT Quality Assurance Para Mulheres**, de acordo com as orientações da *Camila Cavalcante*. 
 
