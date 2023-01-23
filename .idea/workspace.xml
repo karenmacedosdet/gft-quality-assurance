@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/modulo-5/modulo-5/deafios de projeto/desafio-dio-poo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/modulo-5/deafios de projeto/desafio-dio-poo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-5/modulo-5/deafios de projeto/desafio-dio-poo/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1673299564367" duration="2249000" />
       <workItem from="1673406535153" duration="8904000" />
       <workItem from="1674008833395" duration="4731000" />
-      <workItem from="1674408939537" duration="5349000" />
+      <workItem from="1674408939537" duration="5382000" />
     </task>
     <servers />
   </component>
