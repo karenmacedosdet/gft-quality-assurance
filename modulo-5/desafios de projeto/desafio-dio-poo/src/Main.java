@@ -1,19 +1,25 @@
 import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
+import br.com.dio.desafio.dominio.Conteudo;
 import java.time.LocalDate;
 
 public class Main {
 
     public static void main(String[] args) {
         Curso curso1 = new Curso();
-        curso1.setTitulo("Curso Java");
+        curso1.setTitulo("Curso de Java");
         curso1.setDescricao("Descrição do Curso de Java");
         curso1.setCargaHoraria(8);
 
         Curso curso2 = new Curso();
-        curso2.setTitulo("Curso JavaScript");
+        curso2.setTitulo("Curso de JavaScript");
         curso2.setDescricao("Descrição do Curso de JavaScript");
         curso2.setCargaHoraria(4);
+
+        Conteudo conteudo = new Curso();
+        conteudo.setTitulo("Curso de Python");
+        conteudo.setDescricao("Descrição do Curso de Python");
+        conteudo.setCargaHoraria(8);
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de Java");
@@ -22,7 +28,10 @@ public class Main {
 
         System.out.println(curso1);
         System.out.println(curso2);
+        System.out.println(conteudo);
         System.out.println(mentoria);
+
+
 
     }
 
