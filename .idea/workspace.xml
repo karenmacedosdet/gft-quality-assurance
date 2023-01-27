@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/exceptions-java/out/production/exceptions-java/br/com/dio/exceptions/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/exceptions-java/out/production/exceptions-java/br/com/dio/exceptions/CheckedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/exceptions-java/src/br/com/dio/exceptions/CheckedException.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/exceptions-java/src/br/com/dio/exceptions/CheckedException.java" afterDir="false" />
-    </list>
+    <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +85,7 @@
       <workItem from="1673299564367" duration="2249000" />
       <workItem from="1673406535153" duration="8904000" />
       <workItem from="1674008833395" duration="4731000" />
-      <workItem from="1674408939537" duration="12074000" />
+      <workItem from="1674408939537" duration="12137000" />
     </task>
     <servers />
   </component>
