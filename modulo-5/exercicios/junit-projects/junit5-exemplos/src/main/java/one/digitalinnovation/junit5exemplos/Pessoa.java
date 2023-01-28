@@ -1,14 +1,14 @@
 package one.digitalinnovation.junit5exemplos;
 
-import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
 
 public class Pessoa {
 
     private String nome;
-    private LocalDate dataNascimento;
+    private LocalDateTime dataNascimento;
 
-    public Pessoa(String nome, LocalDate dataNascimento) {
+    public Pessoa(String nome, LocalDateTime dataNascimento) {
         this.nome = nome;
         this.dataNascimento = dataNascimento;
     }
@@ -21,16 +21,20 @@ public class Pessoa {
         this.nome = nome;
     }
 
-    public LocalDate getDataNascimento() {
+    public LocalDateTime getDataNascimento() {
         return dataNascimento;
     }
 
-    public void setDataNascimento(LocalDate dataNascimento) {
+    public void setDataNascimento(LocalDateTime dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
     public int getIdade() {
-        return (int) ChronoUnit.YEARS.between(this.dataNascimento, LocalDate.now());
+        return (int) ChronoUnit.YEARS.between(this.dataNascimento, LocalDateTime.now());
+    }
+
+    public boolean isMaiorDeIdade() {
+        return getIdade() >= 18;
     }
 
 }

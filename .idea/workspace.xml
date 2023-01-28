@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit5-exemplos/src/main/java/one/digitalinnovation/junit5exemplos/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit5-exemplos/src/main/java/one/digitalinnovation/junit5exemplos/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit5-exemplos/src/test/java/one/digitalinnovation/junit5exemplos/PessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit5-exemplos/src/test/java/one/digitalinnovation/junit5exemplos/PessoaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +108,7 @@
       <workItem from="1673406535153" duration="8904000" />
       <workItem from="1674008833395" duration="4731000" />
       <workItem from="1674408939537" duration="12137000" />
-      <workItem from="1674787375525" duration="7136000" />
+      <workItem from="1674787375525" duration="8344000" />
     </task>
     <servers />
   </component>
