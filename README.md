@@ -4,7 +4,10 @@ Em parceria com a *Digital Innovation One*, a GFT está promovendo o Bootcamp **
 
 Para acompanhar o meu progresso, é só acessar o material disponibilizado neste repositório conforme os módulos indicados abaixo.
 
-<img alt="Bootcamp GFT" src="imagens/Bootcamp.png" width="100"/> <img alt="Swag Labs" src="imagens/SwagLabs.png" width="120"/> <img alt="Jira" src="imagens/Jira.png" width="120"/> <img alt="Java" src="imagens/Java.png" width="95"/> <img alt="GFT" src="imagens/GFT.png" width="120"/>
+<img alt="Bootcamp GFT" src="imagens/Bootcamp.png" width="100"/> <img alt="Jira" 
+src="imagens/Jira.png" width="150"/> <img alt="Java" src="imagens/Java.png" width="95"/> <img 
+alt="JUnit" src="imagens/JUnit.png" width="160"/> <img alt="Mockito" src="imagens/Mockito.png" 
+width="85"/> <img alt="GFT" src="imagens/GFT.png" width="120"/>
 
 ## EMENTA
 
