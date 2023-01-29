@@ -9,6 +9,7 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.ArgumentMatchers.anyString;
 
 @ExtendWith(MockitoExtension.class)
 public class CadastrarPessoaTeste {
@@ -29,7 +30,7 @@ public class CadastrarPessoaTeste {
 
         DadosLocalizacao dadosLocalizacao =  new DadosLocalizacao("MG", "Poços de Caldas", "Rua Uruguai",
             "Apto 2","Quisisana");
-        Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep("37700000")).thenReturn(dadosLocalizacao);
+        Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep(anyString())).thenReturn(dadosLocalizacao);
         Pessoa pessoa = cadastrarPessoa.cadastrarPessoa("Laura", "123456789", LocalDate.of(2013,9,
             1), "37700000");
 
@@ -39,5 +40,15 @@ public class CadastrarPessoaTeste {
         assertEquals("Poços de Caldas", pessoa.getEndereco().getCidade());
     }
 
+    @Test
+    void lancarExceptionQuandoChamarApiDosCorreios() {
 
+        Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep(anyString())).thenThrow(IllegalArgumentException.class);
+
+        assertThrows(IllegalArgumentException.class, () -> cadastrarPessoa.cadastrarPessoa("Laura",
+            "123456789", LocalDate.of(2013,9,
+            1), "37700000"));
+
+    }
+    
 }

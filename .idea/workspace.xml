@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/ApiDosCorreios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/CadastrarPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/DadosLocalizacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/EnviarMensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/Mensagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/CadastrarPessoaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/ContaTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/EnviarMensagemTeste.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/main/java/dio/digitalinnovation/mockitoexemplos/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/CadastrarPessoaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/CadastrarPessoaTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/ContaTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-5/exercicios/mockito-projetcs/mockito-exemplos/src/test/java/dio/digitalinnovation/mockitoexemplos/ContaTeste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +111,7 @@
       <workItem from="1673406535153" duration="8904000" />
       <workItem from="1674008833395" duration="4731000" />
       <workItem from="1674408939537" duration="12137000" />
-      <workItem from="1674787375525" duration="13898000" />
+      <workItem from="1674787375525" duration="14525000" />
     </task>
     <servers />
   </component>
