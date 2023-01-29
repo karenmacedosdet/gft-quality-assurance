@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit5-exemplos/src/main/java/one/digitalinnovation/junit5exemplos/TransferenciaEntreContas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-5/exercicios/junit-projects/junit-gradle-empty/src/main/java/one/digitalinnovation/Pessoa.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2J3TNtZP2ehFy9wxzyfL55ghoRA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -107,7 +109,7 @@
       <workItem from="1673406535153" duration="8904000" />
       <workItem from="1674008833395" duration="4731000" />
       <workItem from="1674408939537" duration="12137000" />
-      <workItem from="1674787375525" duration="10146000" />
+      <workItem from="1674787375525" duration="11619000" />
     </task>
     <servers />
   </component>
