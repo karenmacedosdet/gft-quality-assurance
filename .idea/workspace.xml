@@ -6,51 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/0130ff2a-2dbb-47e2-a537-455a671c9de5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/01e25d2c-fbc5-4e7f-8ff5-ef3484df7be8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/0772c02e-9762-4de2-bfb0-267712a219e3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/1bf8590a-b01a-4ac3-80b6-baa9c825e3e7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/1d72512c-adcb-4ee0-ae0b-a612b8336396-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/1f2e2406-4999-4588-9c7b-8d933fb79105-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/346d4600-112b-4192-ad73-9c701a7b6459-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/37f0deb5-df05-47bf-a5b8-23240821f2ab-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/3dd7642a-0227-43c1-a29a-6540d82dcbe3-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/3e7e1900-c8a3-4d5b-a7f2-32d00da6c846-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/3fccadbb-7452-4d24-b656-73091648271b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/421a50d1-0d6a-4dbd-8517-54e3ab1a6c40-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/44e64917-3fed-4841-b651-32cdfc7a4f04-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/4ac04856-9d0a-457e-ab10-e0330cc678f1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/59fb0b91-20d2-45cd-9e80-cc3959d99d3a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/5df7a20a-7d13-47b8-8a23-5328b336c502-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/6b3939bd-a178-46ee-90b4-29a1a0a796c0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/6cf98166-c5d7-4d3f-9f66-f2e83a959f8a-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/7f653aa2-40d6-4cbb-82c1-9752b38ec4ec-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/807a5ec4-9789-4152-9ef2-e49c26d1c502-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/8b1712da-4a11-440b-b103-098a166a54b8-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/8fbcb3b8-8a01-41fa-9db1-3b43b4a3b9c3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/ac8f2c4b-de2b-45eb-8e02-1e856138e112-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/ad708ac5-eada-4e19-b256-7bd4d7de72a7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/ae707779-713b-48ef-ac3a-53dc46191d57-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/be64075e-05bf-4647-ac87-0d8fc2e46c80-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/bfb6a7d5-1ab4-4bfd-8db1-0026003b8975-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/c10a5acd-2727-45cc-89b2-0f35372d84e4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/c834e3a4-6acc-4e98-8e7b-4fe6f0f5e8ef-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/cd9c4e8b-ac4d-46f9-b0c7-bd14d0e80ada-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/d56b67cb-dcdd-4904-9fa3-f68a129e7946-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/e7b4f35c-94a1-469f-b3bd-6c74dfd5d3f7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/ed41db15-552f-4820-8c7d-578f289e7f6b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/erro-parcial-report.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/f0839c9e-1c53-4078-b4bd-3673c012f882-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/f554ed0d-8ad3-4a0e-a629-0105816f3108-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/f8021428-f77a-4956-b4e7-76e7cffce323-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/allure-results/fbada6c1-5c40-428c-ba71-2312c0df0b3e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/Booking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/BookingDates.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/BookingDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/main/java/one/digitalinnovation/restassuredapi/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/test/java/one/digitalinnovation/restassuredapi/BookingTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/test/java/one/digitalinnovation/restassuredapi/BookingTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/test/resources/createBookingRequestSchema.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modulo-7/desafios de projeto/rest-assured-api/src/test/resources/createBookingResponseSchema.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +109,7 @@
       <workItem from="1674008833395" duration="4731000" />
       <workItem from="1674408939537" duration="12137000" />
       <workItem from="1674787375525" duration="29046000" />
-      <workItem from="1675057252277" duration="1169000" />
+      <workItem from="1675057252277" duration="2303000" />
     </task>
     <servers />
   </component>
