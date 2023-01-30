@@ -1,43 +1,20 @@
 package one.digitalinnovation.restassuredapi;
 
 public class Booking {
-
-    private String firstname;
-
     private String lastname;
-
+    private String firstname;
     private float totalprice;
-
     private boolean depositpaid;
-
     private BookingDates bookingdates;
-
     private String additionalneeds;
 
-    public Booking(String firstname, String lastname, float totalprice, boolean depositpaid,
-        BookingDates bookingdates, String additionalneeds) {
-        this.firstname = firstname;
-        this.lastname = lastname;
-        this.totalprice = totalprice;
-        this.depositpaid = depositpaid;
-        this.bookingdates = bookingdates;
-        this.additionalneeds = additionalneeds;
-    }
-
-    public String getFirstname() {
-        return firstname;
-    }
-
-    public void setFirstname(String firstname) {
-        this.firstname = firstname;
-    }
-
-    public String getLastname() {
-        return lastname;
-    }
-
-    public void setLastname(String lastname) {
-        this.lastname = lastname;
+    public Booking(String firstName, String lastName, float totalPrice, boolean depositPaid, BookingDates bookingDates, String additionalNeeds) {
+        this.firstname = firstName;
+        this.lastname = lastName;
+        this.totalprice = totalPrice;
+        this.depositpaid = depositPaid;
+        this.bookingdates = bookingDates;
+        this.additionalneeds = additionalNeeds;
     }
 
     public float getTotalprice() {
@@ -48,12 +25,20 @@ public class Booking {
         this.totalprice = totalprice;
     }
 
-    public boolean isDepositpaid() {
+    public boolean getDepositpaid() {
         return depositpaid;
     }
 
     public void setDepositpaid(boolean depositpaid) {
         this.depositpaid = depositpaid;
+    }
+
+    public String getAdditionalneeds() {
+        return additionalneeds;
+    }
+
+    public void setAdditionalneeds(String additionalneeds) {
+        this.additionalneeds = additionalneeds;
     }
 
     public BookingDates getBookingdates() {
@@ -64,11 +49,20 @@ public class Booking {
         this.bookingdates = bookingdates;
     }
 
-    public String getAdditionalneeds() {
-        return additionalneeds;
+    public String getLastname() {
+        return lastname;
     }
 
-    public void setAdditionalneeds(String additionalneeds) {
-        this.additionalneeds = additionalneeds;
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
     }
+
+    public String getFirstname() {
+        return firstname;
+    }
+
+    public void setFirstname(String firstname) {
+        this.firstname = firstname;
+    }
+
 }
