@@ -80,5 +80,3 @@ width="85"/> <img alt="GFT" src="imagens/GFT.png" width="120"/>
 *  **CURSO:** Automação de Testes com Selenium WebDriver e Java
 * **DESAFIO DE PROJETO:** Explorando o Rest Assured Para a Automação de Testes de API    
 <!-- TOC -->
-
-*Conclusão do Bootcamp prevista para 29/01/2023.*
