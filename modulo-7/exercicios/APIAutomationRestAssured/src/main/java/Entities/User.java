@@ -9,7 +9,8 @@ public class User {
     private String password;
     private String phone;
 
-    public User(String username, String firstName, String lastName, String email, String password, String phone) {
+    public User(String username, String firstName, String lastName, String email, String password,
+        String phone) {
         this.username = username;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -65,4 +66,5 @@ public class User {
     public void setPhone(String phone) {
         this.phone = phone;
     }
+
 }

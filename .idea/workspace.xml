@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/main/java/Entities/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/main/java/Entities/BookingDates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/main/java/Entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/main/java/Entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/test/java/users/UserTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/test/java/users/UserTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/test/resources/createBookingRequestSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/test/resources/loginResponseSchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/src/test/resources/createBookingResponseSchema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/target/test-classes/loginResponseSchema.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-7/exercicios/APIAutomationRestAssured/target/test-classes/users/UserTests.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,24 +61,24 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "dart.analysis.tool.window.visible": "false",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "H:/My Drive/JetBrains/gft-quality-assurance",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/My Drive/JetBrains/gft-quality-assurance&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\My Drive\JetBrains\gft-quality-assurance\modulo-5" />
@@ -109,6 +118,7 @@
       <workItem from="1674008833395" duration="4731000" />
       <workItem from="1674408939537" duration="12137000" />
       <workItem from="1674787375525" duration="29046000" />
+      <workItem from="1675057252277" duration="302000" />
     </task>
     <servers />
   </component>
