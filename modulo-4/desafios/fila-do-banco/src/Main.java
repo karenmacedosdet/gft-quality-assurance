@@ -1,3 +1,18 @@
+/*
+DESAFIO
+Elabore um programa que simule uma fila de atendimento bancário. O programa deve ler o nome de 3 pessoas (clientes do banco), armazenando-os em uma fila.
+
+ENTRADA
+A entrada será o nome de três pessoas (clientes do banco).
+
+SAÍDA
+O programa deve imprimir como saída na tela o nome da pessoa e sua posição na fila.
+
+Ana - esta na posicao: 1
+Sofia - esta na posicao: 2
+Lucas - esta na posicao: 3
+*/
+
 import java.util.Scanner;
 
 public class Main {
