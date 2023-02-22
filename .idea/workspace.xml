@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cc81c9a8-4fb0-4b9a-9885-6651fcb19809" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/diferenca-entre-digitos/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/diferenca-entre-digitos/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/emboscada-no-rpg/src/RPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/emboscada-no-rpg/src/RPG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/numero-feliz/src/NumeroFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/numero-feliz/src/NumeroFeliz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/pedra-papel-tesoura/src/PedraPapelTesoura.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/pedra-papel-tesoura/src/PedraPapelTesoura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/quantidade-necessaria/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/modulo-6/desafios-de-projeto/quantidade-necessaria/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +116,7 @@
       <workItem from="1674787375525" duration="29046000" />
       <workItem from="1675057252277" duration="2303000" />
       <workItem from="1675069633332" duration="156000" />
+      <workItem from="1677037554795" duration="647000" />
     </task>
     <servers />
   </component>
